@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-24T23:12:23 ICT" name="Default suite" finished-at="2022-09-24T23:13:13 ICT" duration-ms="50081">
+    <groups>
+    </groups>
+    <test started-at="2022-09-24T23:12:23 ICT" name="Default test" finished-at="2022-09-24T23:13:13 ICT" duration-ms="50081">
+      <class name="ujian.ujiankelima.appium.runner.AllTest">
+        <test-method is-config="true" signature="befTest()[pri:0, instance:ujian.ujiankelima.appium.runner.AllTest@543295b0]" started-at="2022-09-24T23:12:23 ICT" name="befTest" finished-at="2022-09-24T23:12:42 ICT" duration-ms="18590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befTest -->
+        <test-method signature="testList()[pri:0, instance:ujian.ujiankelima.appium.runner.AllTest@543295b0]" started-at="2022-09-24T23:12:42 ICT" name="testList" finished-at="2022-09-24T23:13:12 ICT" duration-ms="30117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testList -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:ujian.ujiankelima.appium.runner.AllTest@543295b0]" started-at="2022-09-24T23:13:12 ICT" name="closeApp" finished-at="2022-09-24T23:13:13 ICT" duration-ms="1294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- ujian.ujiankelima.appium.runner.AllTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
